@@ -1,0 +1,4 @@
+#Tue May 15 16:10:34 CST 2018
+base.0=/Users/iOS/androidProjects/flutter_news_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:2:11-47
+		INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:4:11-38
+		INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:3:11-34
+		INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:6:42-71
+	android:minSdkVersion
+		ADDED from /Users/iOS/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.1.5/android/src/main/AndroidManifest.xml:6:15-41
