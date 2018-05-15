@@ -2,7 +2,9 @@
 
 A new Flutter application.
 
-![image](https://github.com/xujianye/Flutter_News/images/page_index.png?raw=true)
+![image](https://github.com/xujianye/Flutter_News/blob/master/images/page_index.png?raw=true)
+
+![image](https://github.com/xujianye/Flutter_News/blob/master/images/page_detail.png?raw=true)
 
 
 ## Getting Started
